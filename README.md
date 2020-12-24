@@ -1,2 +1,2 @@
 # Gaia
-Map editor for AresRPH
+Map editor for AresRPG
